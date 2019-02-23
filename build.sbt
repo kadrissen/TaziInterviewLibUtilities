@@ -2,7 +2,7 @@ name := "utilities"
 
 organization := "com.example"
 
-version := "0.2"
+version := "0.2-"+ new java.util.Date().getTime
 
 scalaVersion := "2.12.8"
 
